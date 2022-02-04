@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MusicalMaddie
 - 👀 I’m interested in e-ink screens, smart home & automation/device voice control, IFTTT, and music applications (such as organ samplers or sheet music storage).
-- 🌱 I’m currently learning at Tech Elevator, but personally exploring python and programming with API's and e-ink screens in my spare time.
+- 🌱 I’m currently learning Java, SQL, and plenty of others at Tech Elevator, but personally exploring python and programming with API's and e-ink screens in my spare time.
 - 💞️ I’m looking to collaborate on simple projects using API's and e-ink screens.
 - 📫 How to reach me: ....not yet? Comment? Still learning github :) 
 
